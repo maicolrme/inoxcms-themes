@@ -1,0 +1,38 @@
+{
+  "api_url": "https://api.github.com/repos/maicolrme/inoxcms-themes",
+  "homepage": "https://github.com/maicolrme/inoxcms-themes",
+  "packages": {
+    "inox/default": {
+      "name": "default",
+      "vendor": "inox",
+      "description": "Default theme for INOX CMS — clean, minimal, responsive, with customizable colors and layout options.",
+      "latest_version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "download_url": "https://github.com/maicolrme/inoxcms-themes/archive/refs/tags/inox-default/v1.0.0.zip",
+          "requires": { "php": ">=8.3", "inox": ">=0.1.0" },
+          "published_at": "2026-06-27"
+        }
+      },
+      "downloads": 0,
+      "rating": 0,
+      "screenshot": ""
+    },
+    "inox/simple": {
+      "name": "simple",
+      "vendor": "inox",
+      "description": "A minimal, clean blog-style theme — the homepage shows the latest posts, perfect for content-focused sites.",
+      "latest_version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "download_url": "https://github.com/maicolrme/inoxcms-themes/archive/refs/tags/inox-simple/v1.0.0.zip",
+          "requires": { "php": ">=8.3", "inox": ">=0.1.0" },
+          "published_at": "2026-06-27"
+        }
+      },
+      "downloads": 0,
+      "rating": 0,
+      "screenshot": ""
+    }
+  }
+}
